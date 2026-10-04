@@ -1,0 +1,20 @@
+{
+  "name": "KartPad",
+  "identifier": "dev.kartpad.source",
+  "apps": [
+    {
+      "name": "KartPad",
+      "bundleIdentifier": "dev.kartpad.app",
+      "developerName": "Chris Sotraïdis",
+      "subtitle": "Mario Kart Wii and Retro Rewind for iOS",
+      "localizedDescription": "KartPad is a native Mario Kart Wii and Retro Rewind application for iPhone and iPad. Requires your own legally obtained supported Mario Kart Wii game data.",
+      "iconURL": "https://raw.githubusercontent.com/chrissotraidis/kartpad/main/branding/exports/KartPad.png",
+      "versions": [
+        {
+          "version": "0.7.10",
+          "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.7.10/KartPad-v0.7.10-ios.ipa"
+        }
+      ]
+    }
+  ]
+}
